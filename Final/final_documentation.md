@@ -40,3 +40,7 @@ curl -X POST http://localhost:8001/chat \
 7. The purpose of this lab was to make something very complicated(docker,API,containers,openai) seem easy and in general get you thinking that you could use this in future roles to use the power of AI to help in splunk data in cybersecurity. I wanted to expand on this with connecting to splunk itself ,but I think this is complicated enough. Let me know what you think!
 
 - acloudsecninja - Professor Weber
+
+## Final Submission Note Sardou Sabeyo
+
+The document confirms successfully deployment of OpenAI Docker container, the runtine injection of the OpenAI_API_KEY.
